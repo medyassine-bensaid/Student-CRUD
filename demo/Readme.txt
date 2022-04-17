@@ -1,1 +1,1 @@
-Student CRUD project with java springboot
+Student CRUD demo project with java springboot
